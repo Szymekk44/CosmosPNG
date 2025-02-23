@@ -9,4 +9,4 @@ A port of [Big Gustave](https://github.com/EliotJones/BigGustave) png decoder wo
 
 Leave a star if you like it! Thanks!
 ## Usage
-```Bitmap Image = new PNGDecoder().GetBitmap(path / bitmap array);```
+```Bitmap Image = new PNGDecoder().GetBitmap(path / byte array);```
