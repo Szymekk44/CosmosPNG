@@ -8,5 +8,6 @@ A port of [Big Gustave](https://github.com/EliotJones/BigGustave) png decoder wo
 
 
 Leave a star if you like it! Thanks!
+[Get it on Nuget](https://www.nuget.org/packages/CosmosPNGLibrary)
 ## Usage
 ```Bitmap Image = new PNGDecoder().GetBitmap(path / byte array);```
